@@ -10254,8 +10254,8 @@ form .row:first-child .floating-label-form-group {
         height:70px;
         color#fff;
         position: fixed;
-        right:20px;
-        bottom:20px;
+        right:10px;
+        bottom:50px;
         border-radius:10%;
         line-height:80px;
         text-align:center;
@@ -10268,7 +10268,7 @@ form .row:first-child .floating-label-form-group {
         color#fff;
         position: fixed;
         left:10px;
-        bottom:10px;
+        bottom:50px;
         border-radius:50%;
         line-height:80px;
         text-align:center;
